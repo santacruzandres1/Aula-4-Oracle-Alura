@@ -1,0 +1,53 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    
+}
+#banner {
+    width: 100%;
+}
+
+.principal{
+    padding:20px;
+}
+
+.titulo-principal {
+    padding-left: 30px;
+}
+
+.titulo-centralizado {
+    text-align: center;
+    margin: 20px;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+}
+
+#mision {
+    text-align: start;
+}
+
+.diferenciales{
+    padding:30px;
+}
+
+h3{
+    text-align: center;
+}
+
+.items{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul{
+    display: inline-block;
+    vertical-align:top ;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagen-diferenciales{
+    width: 50%;
+}
